@@ -2,6 +2,9 @@
 The game of Battleship!
 
 ## Usagae
+Compile
+`javac Game.java`
+Run the game
 `java Game`
 
 ## Gameplay
