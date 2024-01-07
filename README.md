@@ -1,7 +1,7 @@
 # Battleship
 The game of Battleship!
 
-## Usagae
+## Usage
 Compile\
 `javac Game.java`
 
